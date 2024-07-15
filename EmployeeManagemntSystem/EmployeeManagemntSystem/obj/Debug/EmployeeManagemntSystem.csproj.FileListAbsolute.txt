@@ -1,0 +1,17 @@
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\bin\Debug\EmployeeManagemntSystem.exe.config
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\bin\Debug\EmployeeManagemntSystem.exe
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\bin\Debug\EmployeeManagemntSystem.pdb
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.csproj.AssemblyReference.cache
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.Form1.resources
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.Properties.Resources.resources
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.csproj.GenerateResource.cache
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.csproj.CoreCompileInputs.cache
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.exe
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.pdb
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.RegisterForm.resources
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.MainForm.resources
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.AddEmployee.resources
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.Dashboard.resources
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\EmployeeManagemntSystem.Salary.resources
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\bin\Debug\Bunifu_UI_v1.4.dll
+D:\Study\C#\Projects\EmployeeManagemntSystem\EmployeeManagemntSystem\obj\Debug\Employee.38E39DA4.Up2Date
